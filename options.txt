@@ -1,0 +1,680 @@
+Hash 192
+Ponder 163
+Threads 143
+MultiPV 129
+OwnBook 93
+SyzygyPath 77
+Clear Hash 72
+UCI_Chess960 64
+SyzygyProbeDepth 51
+Contempt 47
+Syzygy50MoveRule 34
+BookFile 34
+SyzygyProbeLimit 33
+UCI_AnalyseMode 32
+UCI_LimitStrength 31
+UCI_Elo 31
+Book File 29
+Skill Level 28
+NullMove Reduction 26
+King Safety 26
+Move Overhead 25
+Slow Mover 25
+NullMove Pruning 24
+History Pruning 24
+History Threshold 24
+Piece Activity 24
+Pawn Structure 24
+Passed Pawns 24
+Quiescence Check Plies 23
+Material 22
+MoveOverhead 21
+nodestime 21
+Debug Log File 20
+Verification Search 20
+Verification Reduction 19
+Delta Pruning 18
+Delta Margin 18
+Minimum Thinking Time 17
+Use NNUE 17
+EvalFile 16
+Analysis Contempt 14
+UCI_ShowWDL 14
+Futility Pruning 13
+Log 12
+Search Time 12
+Search Depth 12
+Use tablebases 11
+Toga Lazy Eval 11
+Toga Lazy Eval Margin 11
+NullMove 10
+GaviotaTbPath 10
+GaviotaTbCache 10
+SyzygyTbPath 10
+SyzygyUse50MoveRule 10
+Futility Margin 10
+Best Book Line 10
+PawnHash 9
+Search Log Filename 9
+Mobility (Endgame) 9
+Passed Pawns (Endgame) 9
+Aggressiveness 9
+Cowardice 9
+Drawscore 9
+NalimovPath 8
+NalimovCache 8
+Favor frequent book moves 8
+Favor best book moves 8
+Minimum Split Depth 8
+Extended Futility Margin 8
+Space 8
+BookPath 8
+Best Book Move 8
+Move overhead 7
+Contempt Factor 7
+Use Search Log 7
+Mobility (Middle Game) 7
+Passed Pawns (Middle Game) 7
+Razoring Margin 7
+Strength 7
+Log File 7
+Use Lmr 7
+NNUE Tuner 7
+Piece Square Activity 7
+Emergency Move Horizon 7
+Emergency Base Time 7
+Emergency Move Time 7
+Favor high-weighted book moves 6
+LogFile 6
+Maximum Number of Threads per Split Point 6
+Minimal Reporting 6
+move overhead milliseconds 6
+Toga Lazy Eval Mobility Margin 6
+Toga King Pawn Endgame Bonus 6
+Toga Rook Pawn Endgame Penalty 6
+EvalHash 5
+King Tropism 5
+Pawn Structure (Endgame) 5
+Min Split Depth 5
+Table Memory 5
+Null Move Pruning 5
+Use Syzygy 5
+Syzygy Probe Depth 5
+Syzygy Probe Limit 5
+Syzygy 50 Move Rule 5
+Razoring 5
+Razoring Depth 5
+Evaluation Pruning 5
+Evaluation Pruning Depth 5
+Use Sleeping Threads 5
+Toga King Safety 5
+Toga Extended History Pruning 5
+Randomize book moves 5
+NNUE file 5
+LargePages 4
+NoobBookLimit 4
+NoobBook 4
+GaviotaTbCompression 4
+ClearHash 4
+ContemptDrawPenalty 4
+ContemptComplexity 4
+Save Hash to File 4
+Load Hash from File 4
+Null Move pruning 4
+UCI_Opponent 4
+DrawScore 4
+BookRandom 4
+Number of Threads 4
+Weights 4
+Write Debug Log 4
+Toga King Safety Margin 4
+Communication Overhead 4
+Book selectivity 3
+BookDepth 3
+AnalysisMode 3
+SingleReply Extension 3
+UCI_EngineAbout 3
+Futility Margin (Depth=1) 3
+Futility Margin (Depth=2) 3
+Pawn Structure (Middle Game) 3
+Check Extension (PV nodes) 3
+Check Extension (non-PV nodes) 3
+Mate Threat Extension (PV nodes) 3
+Mate Threat Extension (non-PV nodes) 3
+Pawn Push to 7th Extension (PV nodes) 3
+Pawn Push to 7th Extension (non-PV nodes) 3
+Passed Pawn Extension (PV nodes) 3
+Passed Pawn Extension (non-PV nodes) 3
+Pawn Endgame Extension (PV nodes) 3
+Pawn Endgame Extension (non-PV nodes) 3
+Hash File Name 3
+Overhead ms 3
+Time Usage 3
+Selectivity 3
+Reduction 3
+Deterministic 3
+IIR Depth 3
+Lazy Eval 3
+SyzygyProbeDepth5 3
+SyzygyProbeDepth6 3
+EngineMode 3
+Fallback to Internal Book 3
+Output Search Depth Info 3
+Output Current Move Info 3
+Output Total Time and Nodes 3
+Console Mode 3
+CommandFile 3
+AlwaysFullPv 2
+Tablebases 2
+BestBookMove 2
+Large Pages 2
+Skill 2
+PersonalityFile 2
+Tablebase Usage 2
+Use Session File 2
+Session File 2
+SF Size 2
+SF Write Depth 2
+Clear SF 2
+Resolve Score Drops 2
+Verbose 2
+TimeBuffer 2
+Use Gaviota Tables 2
+Gaviota Min Pieces 2
+Search Driver 2
+PawnPush Extension 2
+Checks in Quiescence 2
+Pawn 2
+Knight 2
+Bishop 2
+Rook 2
+Queen 2
+Bishop Pair 2
+Time Allocation 2
+Futility Margin (Depth=3) 2
+Fruit Lazy Eval 2
+Fruit Lazy Eval Margin 2
+Fruit Exchange Bonus 2
+Fruit King Safety 2
+Fruit King Safety Margin 2
+Bitbase pieces 2
+History Research on Beta 2
+Rebel Reductions 2
+Quick Futility eval 2
+Alt Pawn SQT 2
+Alt Knight SQT 2
+Alt Bishop SQT 2
+Chess Knowledge 2
+Pawn Shelter 2
+Opening Pawn Value 2
+Opening Knight Value 2
+Opening Bishop Value 2
+Opening Rook Value 2
+Opening Queen Value 2
+Endgame Pawn Value 2
+Endgame Knight Value 2
+Endgame Bishop Value 2
+Endgame Rook Value 2
+Endgame Queen Value 2
+Bishop Pair Opening 2
+Bishop Pair Endgame 2
+Queen Knight combo 2
+Rook Bishop combo 2
+Bad Trade Value 2
+King Safety Curve 2
+King Safety Coefficient 2
+King Safety X Intercept 2
+King Safety Max Slope 2
+King Safety Max Value 2
+Queen Contact Check Bonus 2
+Queen Check Bonus 2
+Rook Check Bonus 2
+Bishop Check Bonus 2
+Knight Check Bonus 2
+Discovered Check Bonus 2
+Mate Threat Bonus 2
+Single Reply Extension (PV nodes) 2
+Single Reply Extension (non-PV nodes) 2
+Full Depth Moves (PV nodes) 2
+Full Depth Moves (non-PV nodes) 2
+Threat Depth 2
+Selective Plies 2
+Futility Pruning (Main Search) 2
+Futility Pruning (Quiescence Search) 2
+Futility Margin 0 2
+Futility Margin 1 2
+Futility Margin 2 2
+Maximum Razoring Depth 2
+Randomness 2
+UCI_ShowCurrLine 2
+PV Hash 2
+Aspiration window 2
+Large memory pages 2
+Use LMR 2
+Dynamism 2
+White Contempt 2
+Special Node Level 2
+time usage aggressiveness 2
+use lmr 2
+null move pruning 2
+deterministic 2
+Best Line 2
+King Safety Aggressiveness 2
+ktabm Open 2
+ktabm End 2
+Move Overhead Milliseconds 2
+Time Usage Aggressiveness 2
+BufferTime 2
+Armageddon 2
+Max Threads per Split Point 2
+Write Search Log 2
+Mobility (Midgame) 2
+Pawn Structure (Midgame) 2
+Passed Pawns (Midgame) 2
+Toga History Threshold 2
+Bitbases Path 2
+Bitbases Cache Size 2
+WeightsFile 2
+Backend 2
+BackendOptions 2
+NNCacheSize 2
+MinibatchSize 2
+MaxPrefetch 2
+CPuct 2
+CPuctBase 2
+CPuctFactor 2
+VerboseMoveStats 2
+SmartPruningFactor 2
+FpuStrategy 2
+FpuValue 2
+CacheHistoryLength 2
+PolicyTemperature 2
+MaxCollisionEvents 2
+MaxCollisionVisits 2
+OutOfOrderEval 2
+StickyEndgames 2
+SyzygyFastPlay 2
+ScoreType 2
+HistoryFill 2
+MoveOverheadMs 2
+RamLimitMb 2
+ConfigFile 2
+IRR 2
+Eval-Depth 2
+Eval-Margin 2
+Razoring Decay 2
+NeverClearHash 1
+HashFile 1
+SaveHashtoFile 1
+LoadHashfromFile 1
+Tablebase 1
+NodeAffinity 1
+Priority 1
+TTFile 1
+TTSave 1
+TTLoad 1
+Max_Threads 1
+Pawn_Hash 1
+Large_Pages 1
+TBUsage 1
+SF Strategy 1
+Split Depth 1
+SF Material Limit 1
+SF Move Limit 1
+BookFilename 1
+BookMoveSelect 1
+PawnValueOp 1
+PawnValueEn 1
+KnightValueOp 1
+KnightValueEn 1
+BishopValueOp 1
+BishopValueEn 1
+RookValueOp 1
+RookValueEn 1
+QueenValueOp 1
+QueenValueEn 1
+KingShelterWeight 1
+PawnStormWeight 1
+KingAttackWeight 1
+MobilityWeight 1
+PassedPawnWeightOp 1
+PassedPawnWeightEn 1
+WeakSquareWeight 1
+RookInOpenFileOp 1
+RookInOpenFileEn 1
+RepetitionScore 1
+InsufficientMaterialScore 1
+FiftyMoveScore 1
+StaleMateScore 1
+TimeBufferMilliSec 1
+AutoClearHash 1
+ev_pval 1
+ev_nval 1
+ev_bval 1
+ev_rval 1
+ev_qval 1
+ev_pmob 1
+ev_nmob 1
+ev_bmob 1
+ev_rmob 1
+ev_ropen 1
+ev_rhalf 1
+ev_qmob 1
+ev_bpair 1
+ev_rpair 1
+ev_qpair 1
+ev_pdoubled 1
+ev_predundant 1
+ev_islands 1
+ev_isoh 1
+ev_isoo 1
+ev_pduofended 1
+ev_pbkwd 1
+ev_blockedopen 1
+ev_passed 1
+ev_ppdefend 1
+ev_ppinc 1
+ev_kppdist 1
+ev_ptabm 1
+ev_ntabm 1
+ev_btabm 1
+ev_rtabm 1
+ev_qtabm 1
+ev_ktabm 1
+ev_nwp_1 1
+ev_bwp_1 1
+ev_rwp_1 1
+ev_luftp 1
+ev_ksarea 1
+ev_ksdefm 1
+ev_ksattm 1
+ev_pthreat 1
+ev_outpost 1
+ev_minorbehind 1
+ev_hmb 1
+Aspiration Search 1
+Aspiration Window 1
+Complete PV 1
+Enhanced Transposition Cutoff 1
+Pawn (Endgame) 1
+Knight (Endgame) 1
+Bishop (Endgame) 1
+Rook (Endgame) 1
+Queen (Endgame) 1
+Bishop Pair (Endgame) 1
+History Move Number 1
+Extended Futility Pruning 1
+EGBB Path 1
+EGBB Cache 1
+EGTB 1
+Quiescence Checks 1
+Quiescence Checks PV 1
+Pruning 1
+Use Aspiration search 1
+Use Fast Eval 1
+PPExt 1
+Use Search Focus 1
+Focus Depth 1
+Search Focus Ext 1
+Round Eval 1
+Play Style 1
+Pawn Shielding Hard 1
+Pawn Shielding Soft 1
+Knight Tropism 1
+Queen Tropism 1
+King Center Endgame 1
+King Sideline Penalty 1
+Pawn Opening 1
+Pawn Endgame 1
+Knight Value 1
+Bishop Value 1
+Rook Value 1
+Queen Value 1
+Use PPP 1
+PPP Level 1
+Start Max PP Level 1
+Pawn Protected PP Level 1
+Pawn Duo PP Level 1
+Rook Behind PP Level 1
+Rook Behind Opp PP Level 1
+King Attack PP Level 1
+King Defend PP Level 1
+Pawn Duo 1
+Pawn Duo Weight 1
+Pawn Duo Weight (Endgame) 1
+Pawn Duo File a+b or g+h 1
+Pawn Duo File b+c or f+g 1
+Pawn Duo File c+d or e+f 1
+Pawn Duo File d+e 1
+Pawn Duo File a+b or g+h (Endgame) 1
+Pawn Duo File b+c or f+g (Endgame) 1
+Pawn Duo File c+d or e+f (Endgame) 1
+Pawn Duo File d+e (Endgame) 1
+Pawn Duo Rank 2 1
+Pawn Duo Rank 3 1
+Pawn Duo Rank 4 1
+Pawn Duo Rank 5 1
+Pawn Duo Rank 6 1
+Pawn Duo Rank 7 1
+Use Knight in Hole Bonus 1
+Use Bishop in Hole Bonus 1
+Use Bad Bishop 1
+Use Queen in Hole Bonus 1
+BISHOP PAIR VS NO MINORS 1
+Use piece combos 1
+QB WORSE THAN QN PENALTY 1
+RB BETTER THAN RN BONUS 1
+QRB BETTER THAN QRN BONUS 1
+B BETTER THAN N BONUS 1
+Rook Attack 1
+Pieces over queen bonus 1
+Rook over Knight endgame bonus 1
+Piece Pawn Score Adjustment 1
+Use King Tropism 1
+knight tropism 1
+bishop tropism 1
+rook tropism 1
+queen tropism 1
+knight tropism opening 1
+bishop tropism opening 1
+rook tropism opening 1
+queen tropism opening 1
+knight tropism endgame 1
+bishop tropism endgame 1
+rook tropism endgame 1
+queen tropism endgame 1
+Pawn Storm 1
+King Attack 1
+Tactical Mode 1
+MultiPV_cp 1
+EGTB Probe Depth 1
+EGTB Fifty Move Rule 1
+NUMA Offset 1
+NUMA Enabled 1
+Never Clear Hash 1
+Hash File 1
+FiftyMoveDistance 1
+UCI Log File 1
+Hide Redundant Output 1
+Own Book 1
+Pawn Hash 1
+Time Buffer 1
+Max Active Splits/Thread 1
+Split_Depth 1
+Analysis_Contempt 1
+Hard_Probe_Depth 1
+Soft_Probe_Depth 1
+Suppress 1
+Magnify 1
+Book Moves 1
+Smart Syzygy 1
+MCTS Hash 1
+Use MCTS 1
+MCTS Explore 1
+Progress Threshold 1
+Variety 1
+cppn 1
+fut 1
+MoveOverheadType 1
+personalityFile 1
+Red depth threshold 1
+pvk lo depth 1
+pvk hi depth 1
+allk lo depth 1
+allk hi depth 1
+Sudden Divisor 1
+Fischer Divisor 1
+hmb open 1
+hmb end 1
+table memory 1
+ScaleMaterial 1
+ScaleKingSafety 1
+LogLevel 1
+UseNNUE 1
+Level 1
+nodesBasedLevel 1
+MateFinder 1
+RandomOpen 1
+MinMoveOverHead 1
+ContemptMG 1
+WDL_display 1
+bongCloud 1
+NNUEFile 1
+forceNNUE 1
+NNUEScaling 1
+NNUEThreshold 1
+GenFen 1
+GenFenDepth 1
+GenFenDepthEG 1
+RandomPly 1
+StyleAttack 1
+StyleComplexity 1
+StyleDevelopment 1
+StyleMaterial 1
+StyleMobility 1
+StylePositional 1
+StyleForwardness 1
+UCI_RatingAdv 1
+Evalcorrect 1
+UserP1 1
+UserP2 1
+UserP3 1
+UserP4 1
+UserP5 1
+UserP6 1
+UserQ1 1
+UserQ2 1
+UserQ3 1
+UserQ4 1
+UserQ5 1
+UserQ6 1
+BF_Net_Trigger 1
+BF_Depth 1
+BF_Stat 1
+BF_Capture 1
+BF_Imp 1
+BF_R1 1
+BF_R2 1
+BF_D1 1
+BF_D2 1
+BF_D3 1
+NM_Net_Trigger 1
+NM_Base 1
+NM_PV 1
+NM_Depth 1
+NM_Imp 1
+NM_Threat 1
+NM_Stat 1
+NM_V_Depth 1
+PC_Net_Trigger 1
+AF_Threat 1
+AF_Lesser_Threat 1
+AF_Imp 1
+AF_Base 1
+AF_Depth_Weight 1
+Move on Ponderhit 1
+UseBook 1
+VerboseBook 1
+Allow Large Pages 1
+BookBestMove 1
+Move_Overhead 1
+NNUENetpath 1
+Use_NNUE 1
+Play level 1
+Search Direction 1
+FixedDepth 1
+LogFileName 1
+Rook Contact Check Bonus 1
+LSN filtering 1
+LSN Time Margin (sec) 1
+LSN Value Margin 1
+Single Evasion Extension (PV nodes) 1
+Single Evasion Extension (non-PV nodes) 1
+Use Debug Log 1
+Idle Threads Sleep 1
+winning_optimism_pieces_us 1
+winning_optimism_pawns_us 1
+winning_optimism_mobility_us 1
+winning_optimism_pieces_them 1
+winning_optimism_pawns_them 1
+winning_optimism_mobility_them 1
+losing_optimism_pieces_us 1
+losing_optimism_pawns_us 1
+losing_optimism_mobility_us 1
+losing_optimism_pieces_them 1
+losing_optimism_pawns_them 1
+losing_optimism_mobility_them 1
+UseNullMove 1
+MinProbeDepth 1
+AnalysisAgeHash 1
+Toga Exchange Bonus 1
+Hash Pruning 1
+Hash Pruning Depth 1
+Hash Pruning Margin 1
+Clear_Hash 1
+OwnBook_File 1
+OwnBook_Depth 1
+OwnBook_Variety 1
+Temperature 1
+TempDecayMoves 1
+TempCutoffMove 1
+TempEndgame 1
+TempValueCutoff 1
+TempVisitOffset 1
+DirichletNoise 1
+FpuStrategyAtRoot 1
+FpuValueAtRoot 1
+KLDGainAverageInterval 1
+MinimumKLDGainPerNode 1
+Slowmover 1
+ImmediateTimeUse 1
+TwoFoldDraws 1
+MaxCollisionVisitsScalingStart 1
+MaxCollisionVisitsScalingEnd 1
+MaxCollisionVisitsScalingPower 1
+MaxOutOfOrderEvalsFactor 1
+PerPVCounters 1
+MovesLeftMaxEffect 1
+MovesLeftThreshold 1
+MovesLeftSlope 1
+MovesLeftConstantFactor 1
+MovesLeftScaledFactor 1
+MovesLeftQuadraticFactor 1
+MaxConcurrentSearchers 1
+DrawScoreSideToMove 1
+DrawScoreOpponent 1
+DrawScoreWhite 1
+DrawScoreBlack 1
+NodesPerSecondLimit 1
+SolidTreeThreshold 1
+MultiGather 1
+TaskWorkers 1
+MinimumProcessingWork 1
+MinimumPickingWork 1
+MinimumRemainingPickingWork 1
+MinimumPerTaskProcessing 1
+IdlingMinimumWork 1
+ThreadIdlingThreshold 1
+UCI_ShowMovesLeft 1
+SmartPruningMinimumBatches 1
+TimeManager 1
