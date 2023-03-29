@@ -131,6 +131,11 @@ def main():
 	for key, value in sorted_count:
 		print(key, value)
 
+	with open('c:/pet/engines/options.txt', 'w') as f:
+		for key, value in sorted_count:
+			f.write(f"{key} {value}\n")
+
+
 	sortedoptions = sorted(all_options)
 	uniqueoptions = list(set(all_options))
 
